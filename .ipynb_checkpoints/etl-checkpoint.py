@@ -89,7 +89,7 @@ def process_log_file(cur, filepath):
 def process_data(cur, conn, filepath, func):
     
     """
-    Description: This function can be used to process data and iterate through those file 
+    Description: This function can be used to process data and iterate through those file directories
 
     Arguments:
       cur: the cursor object. 
